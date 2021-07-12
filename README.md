@@ -1,6 +1,6 @@
 # MarvelCharacterInfo
 
-This Android application list Marvel characters and some information. Currently it list all the series, stories and events.
+This Android application lists Marvel characters and some information. Currently the only data it shows is all the series, stories and events.
 There is no future updates planned for this project. It was just a part of a Front-End test I applied once (which I was approved 😊).
 
 ## Video
