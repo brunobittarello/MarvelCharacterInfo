@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Marvel Character Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="search"><b>MARVEL</b> Character Information</string>
+    <string name="search_label">Character name</string>
+    <string name="name">Name</string>
+    <string name="title_activity_character">CharacterActivity</string>
+    <string name="comics">Comics</string>
+    <string name="series">Series</string>
+    <string name="stories">Stories</string>
+    <string name="events">Events</string>
+</resources>
